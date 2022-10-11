@@ -8,17 +8,17 @@ sobre todo para los que te quieres vender, para que los de recursos humanos de l
 Usuarios:
 
  - LorenzoNPB98
-  - Contraseña: Lorenzo1
-  - Perfil: Administrador
+   - Contraseña: Lorenzo1
+   - Perfil: Administrador
   
-   - Usuario1
-  - Contraseña: usuario1
-  - Perfil: Suscriptor
+  - Usuario1
+    - Contraseña: usuario1
+    - Perfil: Suscriptor
   
-   - Usuario2
-  - Contraseña: usuario2
-  - Perfil: Editor
+  - Usuario2
+    - Contraseña: usuario2
+    - Perfil: Editor
   
-   - Usuario54
-  - Contraseña: usuario54
-  - Perfil: Gestor de la tienda
+  - Usuario54
+    - Contraseña: usuario54
+    - Perfil: Gestor de la tienda
