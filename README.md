@@ -1,27 +1,55 @@
 # CheapThrillsCuisine
 
-En este Wordpress he creado dos páginas, la página principal que es como una introducción a lo que voy a vender, donde tendremos una imagen de fondo con el nombre de la página y un pequeño prólogo más abajo, con un vídeo descriptivo de la hostelería en hoteles.
+Este Wordpress es una reivindicación a la presencia de los restaurantes en los hoteles dando a conocer sus ofertas gastronómicas, experiencias gourmet donde, tanto el producto como su servicio es de alta calidad y accesible tanto a los clientes del hotel como la gente que no está hospedada en el propio hotel.
 
-Un poco más abajo tenemos la opción de entrar a la tienda y a otra página donde hablamos del evento Kombucha que se realizó en Suite&Tea.
-Siguiendo un poco más abajo encontraremos unas opiniones reales de clientes y una opción a suscribrise con lo que se conseguirán grandes ventajas.
-Por último tenemos los típicos íconos de las redes sociales para contactar con la empresa que promociono.
+Empezamos con nuestra página principal, una portada atractiva con una pequeña introducción a lo que se está por descubrir.
+
+![Página Principal](https://images2.imgbox.com/d9/87/Zv1eLxBU_o.jpg "Página Principal")
 
 
-
-No estaría mal siempre poner un readme para ver que hace esto.
-
-sobre todo para los que te quieres vender, para que los de recursos humanos de linked in lo vean.
+-------------------------- 
 
 
 
+![Introducción](https://images2.imgbox.com/d5/44/j7jvI2Dr_o.jpg "Página Principal")
+
+En este Wordpress también tendremos disponible una tienda hecha a través de WooCommerce donde se podrán realizar las compras que deseen los clientes con productos referentes a dos grandes hoteles.
+
+![Tienda](https://images2.imgbox.com/b1/db/Ixl3Nl7h_o.jpg "Tienda")
+
+De vuelta en la página principal también tenemos opiniones de clientes que ya han asistido a descubrir estas experiencias gastro únicas para fomentar y dar fiabilidad a los clientes que deseen comprarlas.
+
+![Reseñas](https://images2.imgbox.com/65/03/0LG0lrpY_o.jpg "Reseñas")
+
+Un poco más abajo para terminar tenemos la suscripción que vimos en la tienda, haciendo una breve explicación de las ventajas que tienen los suscriptores y un Contacto con las redes sociales que usamos para contactar con la empresa NH.
+
+
+![Suscripcion y Redes](https://images2.imgbox.com/38/aa/ErUnSKqB_o.jpg "Suscripcion y Redes")
+
+
+También tenemos múltiples post como este donde promocionamos los productos que vendemos dando información sobre los chefs, chocolateros o cocteleros que están disponibles para nuestros clientes en los diferentes hoteles.
+
+**Gastro Joyeria - Nh Collection Paseo del Prado - Suite&Tea**
+
+![Post](https://images2.imgbox.com/59/63/VlmKLuRZ_o.jpg "Post")
+----------
+**Experiencia en torno al té - NH Collection Paseo del Prado - Suite&Tea**
+
+![Post](https://images2.imgbox.com/06/04/LClyvYvz_o.jpg "Post")
+------------
+**The Box Experience - NH Collection Abascal - Domo Abascal**
+
+![Post](https://images2.imgbox.com/43/7c/DyOeS8JS_o.jpg "Post")
+------------
+
+Para finalizar este Wordpress, cuenta con una página adicional donde hablamos del evento que se realizó en el hotel NH Collection Paseo del Prado.
+En el podemos ver una nota de prensa contando un breve resumen de la experiencia que se vivió allí y también dando a conocer un producto proviniente del probiótico del té, un producto tan sano como es la Kombucha.
+
+![Evento Kombucha](https://images2.imgbox.com/3d/44/7EpaVM86_o.jpg "Evento Kombucha")
 
 
 
-
-
-
-
-Usuarios:
+Estos son los usuarios:
 
  - LorenzoNPB98
    - Contraseña: Lorenzo1
