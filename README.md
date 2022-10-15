@@ -13,7 +13,7 @@ Empezamos con nuestra página principal, una portada atractiva con una pequeña 
 
 ![Introducción](https://images2.imgbox.com/d5/44/j7jvI2Dr_o.jpg "Página Principal")
 
-En este Wordpress también tendremos disponible una tienda hecha a través de WooCommerce donde se podrán realizar las compras que deseen los clientes con productos referentes a dos grandes hoteles.
+En este Wordpress también tendremos disponible una tienda hecha a través de **WooCommerce** donde se podrán realizar las compras que deseen los clientes con productos referentes a dos grandes hoteles.
 
 ![Tienda](https://images2.imgbox.com/b1/db/Ixl3Nl7h_o.jpg "Tienda")
 
@@ -32,24 +32,34 @@ También tenemos múltiples post como este donde promocionamos los productos que
 **Gastro Joyeria - Nh Collection Paseo del Prado - Suite&Tea**
 
 ![Post](https://images2.imgbox.com/59/63/VlmKLuRZ_o.jpg "Post")
+
+
 ----------
+
+
 **Experiencia en torno al té - NH Collection Paseo del Prado - Suite&Tea**
 
 ![Post](https://images2.imgbox.com/06/04/LClyvYvz_o.jpg "Post")
+
+
 ------------
+
+
 **The Box Experience - NH Collection Abascal - Domo Abascal**
 
 ![Post](https://images2.imgbox.com/43/7c/DyOeS8JS_o.jpg "Post")
-------------
+
+
+------
 
 Para finalizar este Wordpress, cuenta con una página adicional donde hablamos del evento que se realizó en el hotel NH Collection Paseo del Prado.
 En el podemos ver una nota de prensa contando un breve resumen de la experiencia que se vivió allí y también dando a conocer un producto proviniente del probiótico del té, un producto tan sano como es la Kombucha.
 
 ![Evento Kombucha](https://images2.imgbox.com/3d/44/7EpaVM86_o.jpg "Evento Kombucha")
 
+-------
 
-
-Estos son los usuarios:
+Estos son los usuarios para acceder:
 
  - LorenzoNPB98
    - Contraseña: Lorenzo1
