@@ -65,10 +65,6 @@ Estos son los usuarios para acceder:
    - Contraseña: Lorenzo1
    - Perfil: Administrador
   
-  - Usuario1
-    - Contraseña: usuario1
-    - Perfil: Suscriptor
-  
   - Usuario2
     - Contraseña: usuario2
     - Perfil: Editor
@@ -76,3 +72,4 @@ Estos son los usuarios para acceder:
   - Usuario54
     - Contraseña: usuario54
     - Perfil: Gestor de la tienda
+    
