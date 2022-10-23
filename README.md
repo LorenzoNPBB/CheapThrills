@@ -61,7 +61,7 @@ En el podemos ver una nota de prensa contando un breve resumen de la experiencia
 
 Estos son los usuarios para acceder:
 
- - LorenzoNPB98
+ - LorenzoNBP98
    - Contraseña: Lorenzo1
    - Perfil: Administrador
   
